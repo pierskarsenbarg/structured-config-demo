@@ -1,0 +1,9 @@
+config:
+  structured-config:data:
+    active: false
+    nums:
+    - 1
+    - 2
+    - 3
+    - 99
+    - 100
